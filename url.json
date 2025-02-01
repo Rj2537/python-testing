@@ -1,0 +1,14 @@
+{
+    "default" : [
+        "https://imdb-api.uzairshaikhking777.workers.dev","https://api.consumet.org"
+    ] ,
+    "sub_headers" : {
+        "aniist": {
+            "meta" : "/meta/anilist/",
+            "query" : "",
+            "page" : "1"
+        }
+
+    }
+
+}
